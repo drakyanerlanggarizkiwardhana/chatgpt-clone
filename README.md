@@ -26,7 +26,7 @@ Before you can set up a virtual environment, you'll need to have Python installe
 ### Cloning the Repository
 Run the following command to clone the repository:
 ```
-git clone https://github.com/xtekky/chatgpt-clone.git
+git clone https://github.com/drakyanerlanggarizkiwardhana/chatgpt-clone.git
 ```
 
 ### Setting up a Virtual Environment
